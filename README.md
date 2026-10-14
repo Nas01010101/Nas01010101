@@ -1,13 +1,13 @@
 # Anas Elghoudane
 
 B.Sc. Mathematics and Computer Science, Université de Montréal.
-Research interests: reinforcement and imitation learning under distribution shift, numerical simulation, and formal verification in Lean 4.
+Research interests: computer vision, numerical simulation, and formal verification in Lean 4.
 
 [nas01010101.github.io](https://nas01010101.github.io) · [anaselghoudane@gmail.com](mailto:anaselghoudane@gmail.com)
 
 ## Research
 
-- Theoretical reinforcement and imitation learning under distribution shift (Department of Mathematics and Statistics, UdeM / Mila).
+- Computer vision for inspection and remote sensing: PCB defect detection with YOLOv8 ([CircuitSight](https://github.com/Nas01010101/CircuitSight)) and interference detection in SAR imagery.
 - Clinical biostatistics (CRCHUM).
 - Undergraduate research scholarships in educational technology, behavioural ML, and clinical biostatistics.
 - RFI detection in Sentinel-1 SAR imagery; extended abstract accepted to the ESA ClearSAR Grand Challenge at IEEE ICIP 2026. [Code](https://github.com/Nas01010101/clearsar-rfi-detection)
