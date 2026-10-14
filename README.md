@@ -10,7 +10,7 @@ Research interests: computer vision, numerical simulation, and formal verificati
 - Computer vision for inspection and remote sensing: PCB defect detection with YOLOv8 ([CircuitSight](https://github.com/Nas01010101/CircuitSight)) and interference detection in SAR imagery.
 - Clinical biostatistics (CRCHUM).
 - Undergraduate research scholarships in educational technology, behavioural ML, and clinical biostatistics.
-- RFI detection in Sentinel-1 SAR imagery; extended abstract accepted to the ESA ClearSAR Grand Challenge at IEEE ICIP 2026. [Code](https://github.com/Nas01010101/clearsar-rfi-detection)
+- RFI detection in Sentinel-1 SAR imagery for the ESA ClearSAR Track 1 challenge. [Code](https://github.com/Nas01010101/clearsar-rfi-detection)
 - AB-Detect, a benchmark for automated effect detection in single-case AB graphs. [Code](https://github.com/Nas01010101/ab-detection-benchmark)
 
 ## Open-source contributions
