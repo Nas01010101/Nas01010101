@@ -1,7 +1,6 @@
 # Anas Elghoudane
 
 B.Sc. Mathematics and Computer Science, Université de Montréal.
-Research interests: computer vision, numerical simulation, and formal verification in Lean 4.
 
 [nas01010101.github.io](https://nas01010101.github.io) · anaselghoudane [at] gmail [dot] com
 
