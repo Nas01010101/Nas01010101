@@ -4,13 +4,6 @@ B.Sc. Mathematics and Computer Science, Université de Montréal.
 
 [nas01010101.github.io](https://nas01010101.github.io) · anaselghoudane [at] gmail [dot] com
 
-## Research
-
-- Computer vision for inspection and remote sensing: PCB defect detection with YOLOv8 ([CircuitSight](https://github.com/Nas01010101/CircuitSight)) and interference detection in SAR imagery.
-- Clinical biostatistics (CRCHUM).
-- Undergraduate research scholarships in educational technology, behavioural ML, and clinical biostatistics.
-- RFI detection in Sentinel-1 SAR imagery for the ESA ClearSAR Track 1 challenge. [Code](https://github.com/Nas01010101/clearsar-rfi-detection)
-- AB-Detect, a benchmark for automated effect detection in single-case AB graphs. [Code](https://github.com/Nas01010101/ab-detection-benchmark)
 
 ## Open-source contributions
 
@@ -26,8 +19,3 @@ B.Sc. Mathematics and Computer Science, Université de Montréal.
 | modelscope/ms-swift | [#9680](https://github.com/modelscope/ms-swift/pull/9680) | `optimizer_cuda_graph` option in Megatron-SWIFT |
 | QwenLM/qwen-code | [8 PRs](https://github.com/QwenLM/qwen-code/pulls?q=is%3Apr+author%3ANas01010101+is%3Amerged) | Request timeouts, file-read enforcement, cron parsing, plan mode |
 
-Under review: [jax-ml/jax#38631](https://github.com/jax-ml/jax/pull/38631), [huggingface/diffusers#14026](https://github.com/huggingface/diffusers/pull/14026), [Lightning-AI/pytorch-lightning#21769](https://github.com/Lightning-AI/pytorch-lightning/pull/21769).
-
-## Tools
-
-Python, C/C++, Rust, Lean 4, R. PyTorch, JAX, MuJoCo, NVIDIA Warp.
